@@ -1,5 +1,5 @@
 // alert("it's working!")
-
+alert ("!!!RUSSIA HAS LAUNCHED AN INTERCONTINENTAL BALLISTIC MISSILE HEADING TOWARDS THE WESTERN UNITED STATES\nTAKE COVER IMMEDIATELY!!! \nTHIS IS NOT A DRILL!!!");
 console.log("Week 4 project js app...");
 
 
@@ -43,3 +43,45 @@ let enoughDrinks = amountOfDrinks >= amountOfGuests
 let goToTheStore = 4
 enoughDrinks = amountOfDrinks + goToTheStore >= amountOfGuests
 console.log(enoughDrinks);
+
+/*practicing loops*/
+for (let i = 0; i <= 10; i++) {
+    console.log(i)
+}
+
+console.log('whatever is next');
+
+for (let i = 0; i <= 20; i++) {
+   if(i % 2 == 0) {
+    console.log(i);
+   }
+}
+
+let names = ['kyle', 'gabby', 'khayman'];
+
+for (let i = 0; i < names.length; i++) {
+    console.log(names[i]);
+    
+}
+
+let a = 0
+
+while (a < 10) {
+   console.log(a);
+   a++;
+    
+}
+
+do {
+    console.log(a);
+} while (a < 10)
+
+    for (i in names) {
+        console.log(i);
+        
+    }
+
+    for (name of names) {
+        console.log(name);
+    }
+
