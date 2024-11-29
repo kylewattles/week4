@@ -1,0 +1,23 @@
+Vocabulary Terms
+
+
+
+Boolean expression: an expression that evaluates to either true or false. Boolean expressions are often used as the conditions in conditional statements.
+
+Comparison operator: a symbol used to compare two values and return a Boolean result. Examples include ==, ===, !=, !==, <, >, <=, and >=.
+
+Conditional statement: a statement that checks a condition and performs different actions depending on whether the condition is true or false. In JavaScript, the most common conditional statement is the if statement.
+
+else statement: a statement that can be executed if the condition of an if statement is false. An else statement must be preceded by an if statement.
+
+else if statement: a statement that can be executed if the condition of the preceding if statement is false, but its own condition is true. An else if statement must be preceded by an if statement.
+
+Falsy: a value that is considered false when evaluated in a Boolean context. In JavaScript, values such as false, null, undefined, 0, and empty Strings are all considered falsy.
+
+Logical operator: a symbol used to combine Boolean expressions and return a Boolean result. Examples include &&, ||, and !.
+
+Nesting: the practice of placing one conditional statement inside another. This is often used to create more complex conditions and multiple branching paths.
+
+switch statement: a type of conditional statement in JavaScript that allows you to test a single variable against multiple possible values. The switch statement is often used as an alternative to multiple if statements when you have a large number of possible cases to test.
+
+Truthy: a value that is considered true when evaluated in a Boolean context. In JavaScript, all objects are considered truthy except for false, null, undefined, 0, and empty Strings.
