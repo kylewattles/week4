@@ -60,7 +60,7 @@ console.log(`--------------------------
      * 
      * ↓ YOUR CODE HERE ↓ */
     
-    
+    console.log(alphabetArray.join)
     
     
     
